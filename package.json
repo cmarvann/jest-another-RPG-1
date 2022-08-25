@@ -5,7 +5,11 @@
   "main": "app.js",
   "directories": {
     "lib": "lib",
+<<<<<<< HEAD
     "test": "test"
+=======
+    "test": "jest"
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
   },
   "dependencies": {
     "ansi-escapes": "^4.3.2",
@@ -19,19 +23,26 @@
     "babel-preset-current-node-syntax": "^1.0.1",
     "babel-preset-jest": "^28.1.3",
     "balanced-match": "^1.0.2",
+<<<<<<< HEAD
     "base64-js": "^1.5.1",
     "bl": "^4.1.0",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "brace-expansion": "^1.1.11",
     "braces": "^3.0.2",
     "browserslist": "^4.21.3",
     "bser": "^2.1.1",
+<<<<<<< HEAD
     "buffer": "^5.7.1",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "buffer-from": "^1.1.2",
     "callsites": "^3.1.0",
     "camelcase": "^5.3.1",
     "caniuse-lite": "^1.0.30001382",
     "chalk": "^4.1.2",
     "char-regex": "^1.0.2",
+<<<<<<< HEAD
     "chardet": "^0.7.0",
     "ci-info": "^3.3.2",
     "cjs-module-lexer": "^1.2.2",
@@ -40,6 +51,11 @@
     "cli-width": "^3.0.0",
     "cliui": "^7.0.4",
     "clone": "^1.0.4",
+=======
+    "ci-info": "^3.3.2",
+    "cjs-module-lexer": "^1.2.2",
+    "cliui": "^7.0.4",
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "co": "^4.6.0",
     "collect-v8-coverage": "^1.0.1",
     "color-convert": "^2.0.1",
@@ -50,7 +66,10 @@
     "debug": "^4.3.4",
     "dedent": "^0.7.0",
     "deepmerge": "^4.2.2",
+<<<<<<< HEAD
     "defaults": "^1.0.3",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "detect-newline": "^3.1.0",
     "diff-sequences": "^28.1.1",
     "electron-to-chromium": "^1.4.229",
@@ -63,10 +82,15 @@
     "execa": "^5.1.1",
     "exit": "^0.1.2",
     "expect": "^28.1.3",
+<<<<<<< HEAD
     "external-editor": "^3.1.0",
     "fast-json-stable-stringify": "^2.1.0",
     "fb-watchman": "^2.0.1",
     "figures": "^3.2.0",
+=======
+    "fast-json-stable-stringify": "^2.1.0",
+    "fb-watchman": "^2.0.1",
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "fill-range": "^7.0.1",
     "find-up": "^4.1.0",
     "fs.realpath": "^1.0.0",
@@ -82,8 +106,11 @@
     "has-flag": "^4.0.0",
     "html-escaper": "^2.0.2",
     "human-signals": "^2.1.0",
+<<<<<<< HEAD
     "iconv-lite": "^0.4.24",
     "ieee754": "^1.2.1",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "import-local": "^3.1.0",
     "imurmurhash": "^0.1.4",
     "inflight": "^1.0.6",
@@ -93,10 +120,15 @@
     "is-core-module": "^2.10.0",
     "is-fullwidth-code-point": "^3.0.0",
     "is-generator-fn": "^2.1.0",
+<<<<<<< HEAD
     "is-interactive": "^1.0.0",
     "is-number": "^7.0.0",
     "is-stream": "^2.0.1",
     "is-unicode-supported": "^0.1.0",
+=======
+    "is-number": "^7.0.0",
+    "is-stream": "^2.0.1",
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "isexe": "^2.0.0",
     "istanbul-lib-coverage": "^3.2.0",
     "istanbul-lib-instrument": "^5.2.0",
@@ -137,8 +169,11 @@
     "leven": "^3.1.0",
     "lines-and-columns": "^1.2.4",
     "locate-path": "^5.0.0",
+<<<<<<< HEAD
     "lodash": "^4.17.21",
     "log-symbols": "^4.1.0",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "lru-cache": "^6.0.0",
     "make-dir": "^3.1.0",
     "makeerror": "^1.0.12",
@@ -147,7 +182,10 @@
     "mimic-fn": "^2.1.0",
     "minimatch": "^3.1.2",
     "ms": "^2.1.2",
+<<<<<<< HEAD
     "mute-stream": "^0.0.8",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "natural-compare": "^1.4.0",
     "node-int64": "^0.4.0",
     "node-releases": "^2.0.6",
@@ -155,8 +193,11 @@
     "npm-run-path": "^4.0.1",
     "once": "^1.4.0",
     "onetime": "^5.1.2",
+<<<<<<< HEAD
     "ora": "^5.4.1",
     "os-tmpdir": "^1.0.2",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "p-limit": "^3.1.0",
     "p-locate": "^4.1.0",
     "p-try": "^2.2.0",
@@ -172,18 +213,26 @@
     "pretty-format": "^28.1.3",
     "prompts": "^2.4.2",
     "react-is": "^18.2.0",
+<<<<<<< HEAD
     "readable-stream": "^3.6.0",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "require-directory": "^2.1.1",
     "resolve": "^1.22.1",
     "resolve-cwd": "^3.0.0",
     "resolve-from": "^5.0.0",
     "resolve.exports": "^1.1.0",
+<<<<<<< HEAD
     "restore-cursor": "^3.1.0",
     "rimraf": "^3.0.2",
     "run-async": "^2.4.1",
     "rxjs": "^7.5.6",
     "safe-buffer": "^5.1.2",
     "safer-buffer": "^2.1.2",
+=======
+    "rimraf": "^3.0.2",
+    "safe-buffer": "^5.1.2",
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "semver": "^6.3.0",
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
@@ -194,7 +243,10 @@
     "source-map-support": "^0.5.13",
     "sprintf-js": "^1.0.3",
     "stack-utils": "^2.0.5",
+<<<<<<< HEAD
     "string_decoder": "^1.3.0",
+=======
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "string-length": "^4.0.2",
     "string-width": "^4.2.3",
     "strip-ansi": "^6.0.1",
@@ -206,6 +258,7 @@
     "supports-preserve-symlinks-flag": "^1.0.0",
     "terminal-link": "^2.1.1",
     "test-exclude": "^6.0.0",
+<<<<<<< HEAD
     "through": "^2.3.8",
     "tmp": "^0.0.33",
     "tmpl": "^1.0.5",
@@ -219,6 +272,16 @@
     "v8-to-istanbul": "^9.0.1",
     "walker": "^1.0.8",
     "wcwidth": "^1.0.1",
+=======
+    "tmpl": "^1.0.5",
+    "to-fast-properties": "^2.0.0",
+    "to-regex-range": "^5.0.1",
+    "type-detect": "^4.0.8",
+    "type-fest": "^0.21.3",
+    "update-browserslist-db": "^1.0.5",
+    "v8-to-istanbul": "^9.0.1",
+    "walker": "^1.0.8",
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
     "which": "^2.0.2",
     "wrap-ansi": "^7.0.0",
     "wrappy": "^1.0.2",
@@ -229,6 +292,12 @@
     "yargs-parser": "^21.1.1",
     "yocto-queue": "^0.1.0"
   },
+<<<<<<< HEAD
+=======
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
   "scripts": {
     "test": "jest"
   },
@@ -241,8 +310,12 @@
   "bugs": {
     "url": "https://github.com/cmarvann/jest-another-RPG-1/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/cmarvann/jest-another-RPG-1#readme",
   "devDependencies": {
     "jest": "^29.0.0"
   }
+=======
+  "homepage": "https://github.com/cmarvann/jest-another-RPG-1#readme"
+>>>>>>> 4083d626a40ddeca0f60d70ef9c312e7beaef88a
 }
